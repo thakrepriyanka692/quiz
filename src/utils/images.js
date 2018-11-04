@@ -1,0 +1,13 @@
+export const ADVERT = require('@assets/common/temp_add.png');
+export const FORWARD = require('@assets/common/forward.png');
+export const REWIND = require('@assets/common/rewind.png');
+export const PAUSE = require('@assets/common/pause.png');
+export const MORE_VOL = require('@assets/common/more_vol.png');
+export const LESS_VOL = require('@assets/common/less_vol.png');
+export const PLAY_IMAGE_DUMMY = require('@assets/common/play_image.png');
+export const OVAL = require('@assets/common/Oval.png');
+export const JOIN4DERECORD_ICON = require('@assets/loginSignup/join4dRecorder.png');
+export const BOTTOM_ICON = require('@assets/settings/4derecord_radio_logo_v1.png');
+export const ICON_DOWN = require('@assets/common/down_arrow.png');
+export const ICON_HEART = require('@assets/common/heart.png');
+export const SONG_DUMMY = require('@assets/common/song_dummy.png');
