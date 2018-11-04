@@ -11,7 +11,9 @@ Basic questions/answer app with multichoice options. This app shows your score a
 - Go to the Quiz root folder from terminal and run the following commands:
 
 `$ yarn`
+
 `$ react-native link`
+
 `$ react-native run-ios`
 
 - You can also run the app using XCode or Android Studio itself.
